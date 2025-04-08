@@ -19,7 +19,7 @@ Một script được viết cho [Tampermonkey](https://tampermonkey.net/) giúp
 
 ### Bước 1: Cài đặt Tampermonkey
 
-- Truy cập: https://tampermonkey.net/
+- Truy cập: https://tampermonkey.net/ hoặc tải trên chromestore
 - Chọn trình duyệt bạn đang dùng (Chrome, Firefox, Edge, Brave...)
 - Cài đặt Extension
 
