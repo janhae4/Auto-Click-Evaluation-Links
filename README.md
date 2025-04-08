@@ -26,7 +26,7 @@ Một script được viết cho [Tampermonkey](https://tampermonkey.net/) giúp
 ### Bước 2: Cài đặt Script
 
 - Vào Tampermonkey Dashboard > `Create a new script`
-- Dán toàn bộ nội dung từ file `AutoClickEvaluationLinks.user.js`
+- Dán toàn bộ nội dung từ script.js trong folder Auto Click Evaluation Links 
 - **Lưu lại (`Ctrl+S`)**
 
 ---
